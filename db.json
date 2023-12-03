@@ -3,74 +3,98 @@
     {
       "name": "Colosseum",
       "location": "Rome",
+      "description": "The Colosseum, located in the heart of Rome, is an ancient amphitheater known for its historical significance and grandeur. It was a venue for gladiator contests and public spectacles, showcasing the engineering marvels of ancient Rome." ,
       "latitude": 41.8902,
-      "longitude": 12.4924
+      "longitude": 12.4924,
+      "img": "https://images.nationalgeographic.org/image/upload/v1652340658/EducationHub/photos/colosseum.jpg"
     },
     {
       "name": "Leaning Tower of Pisa",
       "location": "Pisa",
+      "description": "The Leaning Tower of Pisa is an iconic leaning bell tower in Pisa, Italy. Famous for its unintended tilt, it is part of the Piazza dei Miracoli and is recognized worldwide as a symbol of architectural uniqueness." ,
       "latitude": 43.7229,
-      "longitude": 10.3966
+      "longitude": 10.3966,
+      "img": "https://cdn.britannica.com/88/80588-050-8D944BFE/Leaning-Tower-of-Pisa-Italy.jpg"
     },
     {
       "name": "Venice Grand Canal",
       "location": "Venice",
+      "description": "The Venice Grand Canal is a picturesque waterway winding through the charming city of Venice. Lined with historic buildings and crossed by romantic bridges, it's a central and enchanting feature of the city." ,
       "latitude": 45.4346,
-      "longitude": 12.3388
+      "longitude": 12.3388,
+      "img": "https://cdn.britannica.com/64/153464-050-551A86F7/Rialto-Bridge-Grand-Canal-Venice.jpg"
     },
     {
       "name": "Duomo di Milano",
       "location": "Milan",
+      "description": "The Duomo di Milano is a stunning cathedral in Milan, known for its intricate Gothic architecture. It is the largest church in Italy and a symbol of Milan, offering breathtaking views of the city from its terraces." ,
       "latitude": 45.4641,
-      "longitude": 9.1919
+      "longitude": 9.1919,
+      "img": "https://artincontext.org/wp-content/uploads/2023/03/Duomo-Di-Milano.jpg"
     },
     {
       "name": "Pompeii",
       "location": "Pompeii",
+      "description": "Pompeii is an ancient Roman city near Naples, preserved in ash after the eruption of Mount Vesuvius in 79 AD. The archaeological site provides a unique glimpse into daily life in ancient Rome.",
       "latitude": 40.7486,
-      "longitude": 14.4840
+      "longitude": 14.4840,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Theathres_of_Pompeii.jpg/640px-Theathres_of_Pompeii.jpg"
     }, 
     {
       "name": "Florence Cathedral",
       "location": "Florence",
+      "description": "The Florence Cathedral, or Il Duomo di Firenze, is a magnificent cathedral in Florence with a distinctive dome designed by Brunelleschi. It stands as a masterpiece of Renaissance architecture.",
       "latitude": 43.7737,
-      "longitude": 11.2569
+      "longitude": 11.2569,
+      "img": "https://mymodernmet.com/wp/wp-content/uploads/2020/06/florence-cathedral-1.jpg"
     },
     {
       "name": "Amalfi Coast",
       "location": "Amalfi",
+      "description": "The Amalfi Coast is a stunning stretch of coastline along the Tyrrhenian Sea, known for its picturesque cliffside villages, colorful buildings, and panoramic views. It's a popular destination for its natural beauty and charm.",
       "latitude": 40.6340,
-      "longitude": 14.6027
+      "longitude": 14.6027,
+      "img": "https://i.natgeofe.com/n/6e239651-8606-443a-b848-5563df0451af/92974_square.jpg"
     },
     {
       "name": "Sistine Chapel",
       "location": "Vatican City",
+      "description": "The Sistine Chapel, located in Vatican City, is renowned for its ceiling painted by Michelangelo. It is a masterpiece of Renaissance art and a sacred space within the Vatican Museums.",
       "latitude": 41.9022,
-      "longitude": 12.4534
+      "longitude": 12.4534,
+      "img": "https://m.museivaticani.va/content/dam/museivaticani/immagini/collezioni/musei/cappella_sistina/00_00_Cappella_Sistina/_jcr_content/renditions/original.png"
     },
     {
       "name": "Cinque Terre",
       "location": "Liguria",
+      "description": "Cinque Terre is a collection of five colorful fishing villages on the rugged Italian Riviera. The villages, connected by scenic hiking trails, offer breathtaking views of the Mediterranean Sea.",
       "latitude": 44.1289,
-      "longitude": 9.7126
+      "longitude": 9.7126,
+      "img": "https://tournaitalia.com/wp-content/uploads/2021/10/cinque-terre-2.jpg"
     },
     {
       "name": "Lake Como",
       "location": "Como",
+      "description": "Lake Como, nestled in the Italian Alps, is a serene and glamorous destination surrounded by picturesque towns and villas. The lake's beauty has attracted artists, celebrities, and travelers for centuries.",
       "latitude": 45.9865,
-      "longitude": 9.2526
+      "longitude": 9.2526,
+      "img": "https://imageio.forbes.com/specials-images/imageserve/646b6b45d9b20ac15900fd8a/Oleander-flowers-and-villa-Monastero-in-background--lake-Como--Varenna/960x0.jpg?format=jpg&width=960"
     },
     {
       "name": "Uffizi Gallery",
       "location": "Florence",
+      "description": "The Uffizi Gallery in Florence is one of the oldest and most famous art museums in the world. It houses a vast collection of Renaissance masterpieces, including works by Botticelli, Michelangelo, and Leonardo da Vinci.",
       "latitude": 43.7687,
-      "longitude": 11.2569
+      "longitude": 11.2569,
+      "img": "https://media.cntraveler.com/photos/5c421f204b27de229775c27d/16:9/w_2560,c_limit/GettyImages-511081519.jpg"
     },
     {
       "name": "Mount Vesuvius",
       "location": "Naples",
+      "description": "Mount Vesuvius, overlooking the Bay of Naples, is an active volcano famous for its eruption in 79 AD that buried Pompeii and Herculaneum. Today, visitors can hike to the crater and enjoy panoramic views of the region.",
       "latitude": 40.8219,
-      "longitude": 14.4263
+      "longitude": 14.4263,
+      "img": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL210LXZlc3V2aXVzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODI4fX19"
     }
   ]
 }
