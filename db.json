@@ -1,0 +1,76 @@
+{
+  "touristAttractions": [
+    {
+      "name": "Colosseum",
+      "location": "Rome",
+      "latitude": 41.8902,
+      "longitude": 12.4924
+    },
+    {
+      "name": "Leaning Tower of Pisa",
+      "location": "Pisa",
+      "latitude": 43.7229,
+      "longitude": 10.3966
+    },
+    {
+      "name": "Venice Grand Canal",
+      "location": "Venice",
+      "latitude": 45.4346,
+      "longitude": 12.3388
+    },
+    {
+      "name": "Duomo di Milano",
+      "location": "Milan",
+      "latitude": 45.4641,
+      "longitude": 9.1919
+    },
+    {
+      "name": "Pompeii",
+      "location": "Pompeii",
+      "latitude": 40.7486,
+      "longitude": 14.4840
+    }, 
+    {
+      "name": "Florence Cathedral",
+      "location": "Florence",
+      "latitude": 43.7737,
+      "longitude": 11.2569
+    },
+    {
+      "name": "Amalfi Coast",
+      "location": "Amalfi",
+      "latitude": 40.6340,
+      "longitude": 14.6027
+    },
+    {
+      "name": "Sistine Chapel",
+      "location": "Vatican City",
+      "latitude": 41.9022,
+      "longitude": 12.4534
+    },
+    {
+      "name": "Cinque Terre",
+      "location": "Liguria",
+      "latitude": 44.1289,
+      "longitude": 9.7126
+    },
+    {
+      "name": "Lake Como",
+      "location": "Como",
+      "latitude": 45.9865,
+      "longitude": 9.2526
+    },
+    {
+      "name": "Uffizi Gallery",
+      "location": "Florence",
+      "latitude": 43.7687,
+      "longitude": 11.2569
+    },
+    {
+      "name": "Mount Vesuvius",
+      "location": "Naples",
+      "latitude": 40.8219,
+      "longitude": 14.4263
+    }
+  ]
+}
